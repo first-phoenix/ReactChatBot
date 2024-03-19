@@ -28,5 +28,25 @@
 
 
 .react-chatbot-kit-chat-bot-message {
-  margin-left: 0;
+  margin-left: 10px;
+}
+
+.CG {
+  background-color: #4e045c;
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  color: white;
+  border-radius: 100%;
+}
+
+.start-btn {
+  background-color: #61045F;
+  color: white;
+  padding: .5rem 1rem;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  margin-left: 3rem;
 }
